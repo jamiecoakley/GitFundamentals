@@ -2,7 +2,7 @@
 
 When working with git a **remote** is any git repository that is not on the machine you're working on. The counterpart to this is **local**, or onthe machine that is being developed on.
 
-(boldness happened by putting two asterisks on either side of the words)
+_(boldness happened by putting two asterisks on either side of the words)_
 
 Take Github for example; while git is the technology that allows you to create local repositories, Github is the site that will host your remote repositories. Once stored remotely, you can bring that repository back down or share it with others.
 

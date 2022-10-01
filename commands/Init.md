@@ -2,7 +2,7 @@
 
 The `git init` command is used to create an empty git repository.
 
-( `  <-This type of quotes around a word made that text the way it is. The type of quote three times in a row around a block of text makes the black box.)
+_( `  <-This type of quotes around a word made that text the way it is. The type of quote three times in a row around a block of text makes the black box.)_
 
 If you wanted to create a new directory and initialize a git repository, you can do so with the following commands:
 ```

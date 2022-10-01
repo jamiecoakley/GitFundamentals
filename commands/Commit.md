@@ -6,7 +6,7 @@ Commits come with commit messages that are required for each commit. You add a m
 
 A commit message _can_ be anything, but best practice dictates that you should use that message to indicate the changes included in the commit.
 
-(italics were made with _'s on either side of the word)
+_(italics were made with _'s on either side of the word)_
 
 For example, if we have an application we're working on where we just built out the ability to register new accounts, then you might have some variation of the following:
 ```
