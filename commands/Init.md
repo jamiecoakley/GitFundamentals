@@ -27,4 +27,4 @@ Init will create the repository in the current directory and will encapsulate al
 ---
 (^ created by three dashes in a line)
 
-[Back to home](README.md)
+[Back to home](../README.md)
