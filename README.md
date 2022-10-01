@@ -16,6 +16,7 @@ _(in a list, no space between the word and the dash will yield a dash; space bet
 - [git pull](./commands/Pull.md)
 - [git status](./commands/Status.md)
 - [git clone](./commands/Clone.md)
+- [git branch](./commands/Branch.md)
 
 ## External Resources
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
